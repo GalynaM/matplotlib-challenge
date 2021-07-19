@@ -7,3 +7,4 @@ Boxplot to compare distribution of tumor volume by four drug regimen and spot ou
 Line plot generated to analyze progression of tumor for a specific mouse
 Scatter Chart generated to see if there is a correlation btw mouse weigh and average tumor volume
 Correlation and Linear regression model between mouse weigh and average tumor volume was calculated and visualized via Scatter and Line Plots
+Analysis of the received data had been added
